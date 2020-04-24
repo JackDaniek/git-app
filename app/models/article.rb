@@ -1,3 +1,3 @@
-class Article < ApplicationRecord
+class Article < ApplicationReco
   validates :title, presence: true
 end
